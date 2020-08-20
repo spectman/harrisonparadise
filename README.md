@@ -1,2 +1,1 @@
-# harrisonparadise
-spect
+# harrisonparadise.com
