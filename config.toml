@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://harrisonparadise.onrender.com/"
 languageCode = "en-us"
 title = "Harrison Paradise"
 theme = "hugo-theme-cactus"
