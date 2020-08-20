@@ -1,0 +1,47 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Harrison Paradise"
+theme = "hugo-theme-cactus"
+
+# Main menu is the top nav bar
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Resume"
+url = "/resume"
+weight = 4
+
+[params]
+  colortheme = "dark"
+
+  # Home Page Settings
+  description = "Hello World. I am Harrison Paradise. I am currently laying bricks. I currently lay bricks at Five Four Group. I founded Sewn Commerce."
+
+  mainSection = "posts"
+  postsOnHomePage = 5
+
+
+[[params.social]]
+  name = "instagram"
+  link = "https://www.instagram.com/_h.p_/"
+
+[[params.social]]
+  name = "email"
+  link = "harrisonparadise@gmail.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/harrison-paradise-b1513b142/"
