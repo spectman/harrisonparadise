@@ -28,7 +28,7 @@ weight = 4
   colortheme = "dark"
 
   # Home Page Settings
-  description = "Hello World. I am Harrison Paradise. I am currently laying bricks. I currently lay bricks at Five Four Group. I founded Sewn Commerce."
+  description = "Hello World. I am Harrison Paradise. I am currently laying bricks at Five Four Group. I founded Sewn Commerce."
 
   mainSection = "posts"
   postsOnHomePage = 5
