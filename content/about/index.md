@@ -1,5 +1,5 @@
 ---
-title: About me
+title: about me
 date: 1999-07-06 17:51:42
 ---
 
