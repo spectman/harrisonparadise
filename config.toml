@@ -11,17 +11,17 @@ weight = 1
 
 [[menu.main]]
 name = "Posts"
-url = "/posts"
+url = "/posts/"
 weight = 2
 
 [[menu.main]]
 name = "About"
-url = "/about"
+url = "/about/"
 weight = 3
 
 [[menu.main]]
 name = "Resume"
-url = "/resume"
+url = "/resume/"
 weight = 4
 
 [params]
