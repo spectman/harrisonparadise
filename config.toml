@@ -1,6 +1,6 @@
-baseURL = "https://harrisonparadise.onrender.com/"
+baseURL = "https://harrisonparadise.com/"
 languageCode = "en-us"
-title = "Harrison Paradise"
+title = "HP"
 theme = "hugo-theme-cactus"
 
 # Main menu is the top nav bar
