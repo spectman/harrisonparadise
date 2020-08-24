@@ -31,7 +31,7 @@ weight = 4
   description = "Hello World. I am Harrison Paradise. I am currently laying bricks at Five Four Group. I founded Sewn Commerce."
 
   mainSection = "posts"
-  postsOnHomePage = 5
+  postsOnHomePage = 7
 
 
 [[params.social]]
