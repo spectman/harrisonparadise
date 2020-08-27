@@ -31,21 +31,19 @@ weight = 4
   description = "Hello World. I am Harrison Paradise. I currently lay bricks at Five Four Group. I founded Sewn Commerce."
 
   mainSection = "posts"
-  postsOnHomePage = 7
+  showAllPostsOnHomePage = true
+  postsOnHomePage = 0
 
 
 [[params.social]]
   name = "instagram"
   link = "https://www.instagram.com/_h.p_/"
-
 [[params.social]]
     name = "spotify"
     link = "https://open.spotify.com/playlist/5WV2BMJCkJOaExbZ0Gt53s?si=whAhZtY9TreOqqWlkrBx7A"
-
 [[params.social]]
   name = "email"
   link = "harrisonparadise@gmail.com" # no need for "mailto:" at the start
-
 [[params.social]]
   name = "linkedin"
   link = "https://www.linkedin.com/in/harrison-paradise-b1513b142/"
