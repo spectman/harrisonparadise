@@ -35,9 +35,7 @@ weight = 4
   postsOnHomePage = 0
 
 
-[[params.social]]
-  name = "instagram"
-  link = "https://www.instagram.com/_h.p_/"
+
 [[params.social]]
     name = "spotify"
     link = "https://open.spotify.com/playlist/5WV2BMJCkJOaExbZ0Gt53s?si=whAhZtY9TreOqqWlkrBx7A"
