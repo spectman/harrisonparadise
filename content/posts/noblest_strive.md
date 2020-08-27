@@ -1,6 +1,6 @@
 ---
 title: noblest strive by bladee
-date: 2020-08-24 16:56:54
+date: 2020-08-27 16:56:54
 categories: music
 keywords:
 ---
