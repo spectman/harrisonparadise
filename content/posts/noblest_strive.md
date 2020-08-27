@@ -16,7 +16,7 @@ A sensation but it's strange\
 In the way everything is a secret even-\
 Call myself a vessel, not a name\
 Call a taxi in the rain\
-Take a plane out of space to confess, I need it\
+Take a plane out of space to confess, I need it
 
 Endlessly reflecting in your gaze\
 With the mirror and it breaks\
@@ -29,7 +29,7 @@ Just to find out what it takes\
 To be crazed, separate, differentiate it\
 You hold on to me, the part that stays\
 Makes me crawling in the wave, fly away\
-But today I'll go up, I know it\
+But today I'll go up, I know it
 
 I throw all my sympathies away\
 Pray my card will be a ace\
@@ -38,7 +38,7 @@ I can't stand to watch it\
 Everything is perfect in the void\
 I don't want it to be spoiled\
 I avoid it for so long, but I can't forever\
-(But I can't forever)\
+(But I can't forever)
 
 Endlessly reflecting in your gaze\
 With the mirror and it breaks\
@@ -51,4 +51,4 @@ Just to find out what it takes\
 To be crazed, separate, differentiate it\
 You hold on to me, the part that stays\
 Makes me crawling in the wave, fly away\
-But today I'll go up, I know it\
+But today I'll go up, I know it
