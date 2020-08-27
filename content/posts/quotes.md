@@ -12,7 +12,7 @@ keywords:
 | Rosamund                       | "I will have to remember ‘I am here today to cross the swamp, not to fight all the alligators."                                      | 6/26/19 15:46  |
 | Albert (Y&R)                   | "When you can't find something with your eyes look for it with your mind"                                                            | 7/2/19 12:11   |
 | Søren Kierkegaard              | “Anxiety is the dizziness of freedom.”                                                                                               | 7/8/19 17:15   |
-| Sarah Barton                   | "...find a simple way to live. No more pressure freaky angry worries."                                                               | 7/11/19 15:55  |
+| Sarah Barton                   | "...find a simple way to live. No more pressure freaky angry worries."                                                               
                                                                                               | 7/12/19 12:28  |
 | Oscar Wilde                    | “Give a man a mask and he will show you his true face”                                                                               | 7/15/19 10:51  |
 | Jordan Peterson                | “What you aim at determines what you see”                                                                                            | 7/22/19 15:02  |
