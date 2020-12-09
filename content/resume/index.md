@@ -45,9 +45,9 @@ Experience
 
 Skills
 ======
-**Technical:** Python, VBA, SQL, Excel, HTML
+**Technical:** Python, VBA, SQL, Excel, HTML <br>
 **Commerce:** Shopify, Amazon, Order Fulfillment
 
 Interests
 =========
-Backpacking, Chess, Rubiks Cube, Cooking, Fine Dining
+Backpacking, Chess, Rubiks Cube, Cooking, Fine Dining  
