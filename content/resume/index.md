@@ -5,7 +5,7 @@ categories:
 keywords:
 ---
 
-## Harrison Paradise
+# Harrison Paradise
 
 
 #### Data enthusiast with a strong background in economics, fulfillment and operations.
@@ -45,8 +45,8 @@ Experience
 
 Skills
 ======
-**Technical:** Python, VBA, SQL, Excel, HTML <br>
-**Commerce:** Shopify, Amazon, Order Fulfillment
+**Technical:** Python, VBA, SQL, Excel, HTML\
+**Ecommerce:** Shopify, Amazon, Order Fulfillment
 
 Interests
 =========
