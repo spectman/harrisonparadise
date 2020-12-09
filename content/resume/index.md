@@ -5,14 +5,14 @@ categories:
 keywords:
 ---
 
-Harrison Paradise
-======
+## Harrison Paradise
+
 
 #### Data enthusiast with a strong background in economics, fulfillment and operations.
 
 
 Education
----------
+=========
 **B.A. in Economics, California State University Long Beach** (2020-present)
 
 - Coursework in economics, mathematics, and business.
@@ -25,7 +25,7 @@ Education
 - Three semesters in Alpha Gamma Sigma Honors Society
 
 Experience
----------
+=========
 **Operations Analyst, Five Four Group** (2020-present, Los Angeles CA)
 
 - Focused on optimizing workflows for the onboarding of new brand partners
@@ -44,10 +44,10 @@ Experience
 - Created automation rules to decrease fulfillment times and reduce cost
 
 Skills
-------
+======
 **Technical:** Python, VBA, SQL, Excel, HTML
 **Commerce:** Shopify, Amazon, Order Fulfillment
 
 Interests
-------
+=========
 Backpacking, Chess, Rubiks Cube, Cooking, Fine Dining
