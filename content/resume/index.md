@@ -46,7 +46,7 @@ Experience
 Skills
 ======
 **Technical:** Python, VBA, SQL, Excel, HTML\
-**Ecommerce:** Shopify, Amazon, Order Fulfillment
+**Ecommerce:** Shopify, Amazon Seller Central, Order Fulfillment
 
 Interests
 =========
