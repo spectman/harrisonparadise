@@ -31,7 +31,7 @@ Experience
 - Resolving technical issues for 3PL portion of the business
 - Managing, cleaning, and presenting large data sets
 
-**Founder & CEO, Sewn Commerce** (2020-present, Venice, CA)
+**Founder & CEO, Sewn Commerce** (2020-present, Venice CA)
 
 - I saw too many friends creating clothing companies that lost momentum due to their personal technical limitations
 - I created a company to assist young entrepreneurs with the business and technical aspects of the fashion industry
