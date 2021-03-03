@@ -37,8 +37,8 @@ weight = 4
 
 
 [[params.social]]
-    name = "spotify"
-    link = "https://open.spotify.com/playlist/5WV2BMJCkJOaExbZ0Gt53s?si=whAhZtY9TreOqqWlkrBx7A"
+  name = "spotify"
+  link = "https://open.spotify.com/playlist/5WV2BMJCkJOaExbZ0Gt53s?si=whAhZtY9TreOqqWlkrBx7A"
 [[params.social]]
   name = "email"
   link = "harrisonparadise@gmail.com" # no need for "mailto:" at the start
