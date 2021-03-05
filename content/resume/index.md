@@ -5,7 +5,9 @@ categories:
 keywords:
 ---
 
-# Harrison Paradise
+## Harrison Paradise
+
+harrisonparadise@gmail.com
 
 ### Data enthusiast with a strong background in economics, operations, and fulfillment.
 
