@@ -1,5 +1,5 @@
 ---
-title: stoicism in bladee's *333*
+title: stoicism in bladee's 333
 date: 2021-03-05 16:56:54
 categories: notes
 keywords:
