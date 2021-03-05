@@ -16,7 +16,7 @@ Bladee touched on similar themes his previous 2020 studio album *Exeter*, in the
 **What is your ego getting in the way of? What does Bladee think is behind the veil?**
 Those are questions you must answer for yourself. [Epictetus](https://en.wikipedia.org/wiki/Epictetus) has a great quote that is applicable here, "You can't learn if you think you already know".  
 
-I reccomend going outside, setting off on a long hike and queuing up Bladee's 333 on a good pair of headphones. Aide can also come from psyllocibin if you so choose.  
+I reccomend going outside, setting off on a long hike and queuing up Bladee's 333 on a good pair of headphones. Aide can also come from psilocybin if you so choose.  
 
 Reccomendations
 Headphones: [Blon Bl03](https://www.amazon.com/HiFiHear-Earphone-Diaphragm-Headphone-Detachable/dp/B07TZ2NQCF)\
