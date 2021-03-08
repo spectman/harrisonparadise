@@ -18,7 +18,7 @@ Those are questions you must answer for yourself. [Epictetus](https://en.wikiped
 
 I reccomend going outside, setting off on a long hike and queuing up Bladee's 333 on a good pair of headphones. Aide can also come from psilocybin if you so choose.  
 
-Reccomendations
+Reccomendations\
 Headphones: [Blon Bl03](https://www.amazon.com/HiFiHear-Earphone-Diaphragm-Headphone-Detachable/dp/B07TZ2NQCF)\
 Trail Shoes: [Altra Lone Peak 5](https://www.rei.com/product/184467/altra-lone-peak-5-trail-running-shoes-mens?CAWELAID=120217890011518715)\
 Spotify Offline: [Listen Offline](https://support.spotify.com/us/article/listen-offline/)
