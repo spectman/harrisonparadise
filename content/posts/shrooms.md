@@ -11,7 +11,7 @@ Growing your own mushrooms has long been a daunting task for the common man. It 
 
 Check out reddit.com/r/unclebens to learn more. The sidebar has every detail you might need. I have added extra links below that helped me along the way, perhaps they will help you. Keep in mind that illegal drug talk on the internet can be taken down, some of these links may die in the future. Hopefully those that made mushrooms illegal in the first place die instead. 
 
-**Links:**
+**Links:**\
 https://grumpygillsfungi.com/product/beginner-kit/
 https://www.reddit.com/r/unclebens/comments/grsc7a/for_educational_purposes_i_see_a_lot_of_people/
 https://www.reddit.com/r/shrooms/comments/ervxh8/is_that_contam_identification_avoidance/
