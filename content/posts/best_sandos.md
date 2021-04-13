@@ -6,10 +6,11 @@ keywords:
 ---
 
 1. Bay Cities
-2. e Stretto
+2. Konbi
 3. Wax Paper
-4. Larchmont Wine and Cheese
-5. Konbi
-6. Uncle Paulie's
+4. Carla Cafe
+5. Larchmont Wine and Cheese
+6. e Stretto
+7. Uncle Paulie's
 
 > last updated: 23 August 2020
