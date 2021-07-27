@@ -9,15 +9,13 @@ keywords:
 
 harrisonparadise@gmail.com
 
-### Data enthusiast with a strong background in economics, operations, and fulfillment.
+### Data enthusiast with a focus on operations, economics, and optimization.
 
 # Education
 
-**B.A. in Economics, California State University Long Beach** (2020-present)
+**B.A. in Economics, California State University Long Beach** (2020-2021)
 
-- Coursework in economics, mathematics, and business.
-- Completing via online school at night time.
-- Graduate in Summer 2021
+- Coursework in economics, data analysis, and business.
 
 **A.A. in Economics, West Valley College** (2017-2019)
 
@@ -25,18 +23,19 @@ harrisonparadise@gmail.com
 
 # Experience
 
-**Operations Analyst, Five Four Group** (2020-present, Los Angeles CA)
+**Operations Specialist, Metropolis** (May 2021-present, Venice CA)
 
-- Focusing on optimizing workflows for new brand partners
-- Resolving technical issues for 3PL portion of the business
-- Managing, cleaning, and presenting large data sets
+- Building a central operating team at a fast growing startup
+- Creating visual tools with Tableau
+- Learning how to adapt and wear many roles in a hyper growth startup environment
 
-**Founder & CEO, Sewn Commerce** (2020-present, Venice Beach CA)
+**Operations Analyst, Five Four Group** (Aug 2020-May 2021, Los Angeles CA)
 
-- I saw too many friends creating clothing companies that lost momentum due to technical limitations
-- I created a company to assist young entrepreneurs with the business and technical aspects of the fashion industry
+- Focused on optimizing workflows for new brand partners
+- Resolved technical issues for 3PL portion of the business
+- Managed, cleaned, and presented large data sets
 
-**Operations Assistant, Young and Reckless** (May 2019-Oct 2020, Los Angeles CA)
+**Operations Assistant, Young and Reckless** (May 2019-Aug 2020, Los Angeles CA)
 
 - Led the implementation of new inventory management software
 - Optimized many daily/monthly excel tasks with VBA
@@ -50,9 +49,11 @@ harrisonparadise@gmail.com
 
 # Skills
 
-**Technical:** Python, VBA, SQL, Excel, HTML, Tableau
+**Technical:** HTML, Python, React
 
-**Ecommerce:** Shopify, Amazon Seller Central, Order Fulfillment
+**Analysis:** Tableau, Pandas, VBA, Excel, SQL
+
+**E-commerce:** Shopify Plus, Amazon Seller Central, Shipstation, Big Commerce
 
 # Interests
 
