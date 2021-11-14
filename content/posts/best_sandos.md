@@ -9,8 +9,9 @@ keywords:
 2. Konbi
 3. Wax Paper
 4. Carla Cafe
-5. Larchmont Wine and Cheese
-6. e Stretto
-7. Uncle Paulie's
+5. Langer's Delicatessen-Restaurant
+6. Larchmont Wine and Cheese
+7. e Stretto
+8. Uncle Paulie's
 
 > last updated: 13 April 2021
