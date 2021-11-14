@@ -9,8 +9,24 @@ Here is my opinion on what to do in Venice. I have lived in Venice full time for
 Money will not be a concern in this guide, I will simply tell you what things are worth your money and more importantly, your time. Venice in general is cool and worth your time.
 
 ### Food
-* Felix
+* Felix Trattatoria
+* Intelligentsia
+* Gjelina
+* Abbot Pizza
+* Heavy Handed
+* Flake
+* The Window
+* Ospi
+* Mao's Kitchen (BYOB)
+* Jeni's Ice Creams
 ### Activities
-
+* The Beach
+* Hot yoga at shefayoga
+* Drum Circle, Sundays @ The Gay Booth
+* Venice Knights Chess Club
 ### Shopping
-
+* Lululemon Pop Up
+* Erewhon
+* Luft
+* Nutritional Warehouse
+* Rivian Hub
