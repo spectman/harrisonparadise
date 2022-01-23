@@ -11,7 +11,8 @@ keywords:
 4. Carla Cafe
 5. Langer's Delicatessen-Restaurant
 6. Larchmont Wine and Cheese
-7. e Stretto
-8. Uncle Paulie's
+7. The Bad Jew
+8. e Stretto
+9. Uncle Paulie's
 
 > last updated: 13 April 2021

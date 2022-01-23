@@ -9,13 +9,13 @@ keywords:
 
 harrisonparadise@gmail.com
 
-### Data enthusiast with a focus on operations, economics, and optimization.
+### Hi, I am a data enthusiast with a focus on operations, optimization, and data analysis.
 
 # Education
 
 **B.A. in Economics, California State University Long Beach** (2020-2021)
 
-- Coursework in economics, data analysis, and business.
+- Coursework in economics, mathematics, and business.
 
 **A.A. in Economics, West Valley College** (2017-2019)
 
@@ -23,11 +23,20 @@ harrisonparadise@gmail.com
 
 # Experience
 
-**Operations Specialist, Metropolis** (May 2021-present, Venice CA)
+**Operations Coordinator, Metropolis** (Oct 2021-present, Santa Monica CA)
 
-- Building a central operating team at a fast growing startup
-- Creating visual tools with Tableau
-- Learning how to adapt and wear many roles in a hyper growth startup environment
+- Managing junior members of a growing operations team
+- Using Jira to track and manage the remote team
+- Working with product teams to strengthen our technologies
+- Using SQL to pull adhoc data
+- Building powerful internal tools with Tableau
+- Helping this company grow faster than ever
+
+**Operations Specialist, Metropolis** (May 2021-Oct 2021, Venice CA)
+
+- Built a central operating team at a startup
+- Created visual tools with Tableau
+- Learned how to adapt and wear many roles in a hyper growth startup environment
 
 **Operations Analyst, Five Four Group** (Aug 2020-May 2021, Los Angeles CA)
 
@@ -41,20 +50,14 @@ harrisonparadise@gmail.com
 - Optimized many daily/monthly excel tasks with VBA
 - Created automation rules to decrease fulfillment SLAs and reduce cost
 
-**Expediter, Auburn Restaurant** (March 2019-Feb 2020, Los Angeles CA)
-
-- Learned how to speak and move with absolute efficiency
-- Fell in love with orchestrating communication between front and back of house
-- Sharpened my fine dining acumen
-
 # Skills
 
-**Technical:** HTML, Python, React
+**Technical:** HTML, Python, VBA
 
-**Analysis:** Tableau, Pandas, VBA, Excel, SQL
+**Analysis:** Tableau, Pandas, Excel, SQL
 
-**E-commerce:** Shopify Plus, Amazon Seller Central, Shipstation, Big Commerce
+**E-commerce:** Shopify Plus, Amazon Seller Central, Big Commerce
 
 # Interests
 
-Backpacking, Chess, Rubik's Cube, Cooking, Fine Dining, Compound Interest
+Backpacking, Chess, Rubik’s Cube, Cooking, Fine Dining, Compound Interest

@@ -31,8 +31,8 @@ weight = 4
   description = "Hello World. I am Harrison Paradise. I currently lay bricks at Metropolis. I founded Sewn Commerce."
 
   mainSection = "posts"
-  showAllPostsOnHomePage = true
-  postsOnHomePage = 0
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 4
 
 
 
