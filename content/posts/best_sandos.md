@@ -5,9 +5,9 @@ categories: rankings
 keywords:
 ---
 
-1. Bay Cities
+1. Wax Paper 
 2. Konbi
-3. Wax Paper
+3. Bay Cities
 4. Carla Cafe
 5. Langer's Delicatessen-Restaurant
 6. Larchmont Wine and Cheese
@@ -15,4 +15,4 @@ keywords:
 8. e Stretto
 9. Uncle Paulie's
 
-> last updated: 13 April 2021
+> last updated: 05 April 2022
