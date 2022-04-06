@@ -4,7 +4,6 @@ date: 2022-04-05 16:56:54
 categories: notes
 keywords:
 ---
-## the dark side of dark stores by warren poh
 
 > Warren is a veteran in proptech and one of the founding members of CloudKitchens retail play, [CloudRetail](http://retail.cloudkitchens.com/).
 > You can find him on [Instagram](https://www.instagram.com/thepohster/) and [Linkedin](https://www.linkedin.com/in/warren-poh/). Warren currently works in Growth Strategy at [Metropolis](https://metropolis.io/). He graduated from USC without cheating a single time.
