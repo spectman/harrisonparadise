@@ -7,7 +7,7 @@ keywords:
 ## the dark side of dark stores by warren poh
 
 > Warren is a veteran in proptech and one of the founding members of CloudKitchens retail play, [CloudRetail](http://retail.cloudkitchens.com/).
-> You can find him on [Instagram](https://www.instagram.com/thepohster/) and [Linkedin](https://www.linkedin.com/in/warren-poh/)
+> You can find him on [Instagram](https://www.instagram.com/thepohster/) and [Linkedin](https://www.linkedin.com/in/warren-poh/). Warren currently works in Growth Strategy at [Metropolis](https://metropolis.io/). He graduated from USC without cheating a single time.
 
 When Apoorva Mehta graduated YC’s summer batch in 2012, he likely did not expect his entrepreneurial ambitions to produce a $40 billion dollar enterprise. But 10 years later and over a billion dollars raised, the future of Instacart is opaque. In order to understand my pessimism, let’s break down the art of grocery delivery and why competition in a growing market will lead to Instacart’s demise.
 
