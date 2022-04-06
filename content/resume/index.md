@@ -11,7 +11,7 @@ harrisonparadise@gmail.com
 
 ### Hi, I am a data enthusiast with a focus on operations, optimization, and analysis.
 
-# Education
+## Education
 
 **B.A. in Economics, California State University Long Beach** (2020-2021)
 
@@ -21,7 +21,7 @@ harrisonparadise@gmail.com
 
 - Three semesters in Alpha Gamma Sigma Honors Society
 
-# Experience
+## Experience
 
 **Operations Coordinator, [Metropolis](https://metropolis.io/)** (Oct 2021-present, Santa Monica CA)
 
@@ -49,7 +49,7 @@ harrisonparadise@gmail.com
 - Optimized many daily/monthly excel tasks with VBA
 - Created automation rules to decrease fulfillment SLAs and reduce cost
 
-# Skills
+## Skills
 
 **Programming:** Python, SQL, VBA
 
@@ -57,6 +57,6 @@ harrisonparadise@gmail.com
 
 **E-commerce:** Shopify Plus, Amazon Seller Central
 
-# Interests
+## Interests
 
 Backpacking, Cooking, Chess, Rubik’s Cube, Fine Dining, Compound Interest
