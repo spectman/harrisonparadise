@@ -9,16 +9,16 @@ Here is my opinion on what to do in Venice. I have lived in Venice full time for
 Money will not be a concern in this guide, I will simply tell you what things are worth your money and more importantly, your time. Venice in general is cool and worth your time.
 
 ### Food
-* Felix Trattatoria
-* Intelligentsia
-* Gjelina
-* Abbot Pizza
-* Heavy Handed
-* Flake
-* The Window
-* Ospi
-* Mao's Kitchen (BYOB)
-* Jeni's Ice Creams
+* Felix Trattatoria - best pasta and probably best fine dining in Venice.
+* Intelligentsia - best coffee around
+* Gjelina - california in a nutshell
+* Abbot Pizza - best cheap eat
+* Heavy Handed - best burger in la
+* Flake - best fast hungover breakfast
+* The Window - mid but can hit sometimes, especially with group of homies
+* Ospi - good enough italian in a sea of shit italian
+* Mao's Kitchen (BYOB) - best group dinner for cheap and free fade
+* Jeni's Ice Creams -  best ice cream, way better than salt&straw
 ### Activities
 * The Beach
 * Hot yoga at shefayoga

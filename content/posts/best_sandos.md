@@ -5,14 +5,12 @@ categories: rankings
 keywords:
 ---
 
-1. Wax Paper 
-2. Konbi
-3. Bay Cities
-4. Carla Cafe
-5. Langer's Delicatessen-Restaurant
-6. Larchmont Wine and Cheese
-7. The Bad Jew
-8. e Stretto
-9. Uncle Paulie's
+1. Jeff's Table, fav = yuzu chicken kosho
+2. Bánh Mì Mỹ Tho, fav = meatball or cold cut
+3. Bay Cities, fav = Godmother w the works, hot peps
+4. Wax Paper, fav = Ira Glass (add turkey)
+5. Carla Cafe, fav = tuna chop
+6. Langer's Delicatessen-Restaurant, fav = number 19 on rye
+7. Larchmont Wine and Cheese, fav = number 3  soppresseta  salami
 
-> last updated: 05 April 2022
+> last updated: 08 Feb 2023
